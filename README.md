@@ -17,4 +17,5 @@ gcloud run deploy cep-weather --image gcr.io/SEU_PROJETO/cep-weather --platform 
 ## URL
 Para criar a conta gratuita é necessário fazer um paragamento de 200 reais, no qual não disponho.
 
-![alt text](image.png)
+<img width="661" height="267" alt="image" src="https://github.com/user-attachments/assets/b709e97a-087c-4e14-a83e-33aaea0c7419" />
+
